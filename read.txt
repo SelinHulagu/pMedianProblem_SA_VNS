@@ -1,6 +1,3 @@
 # hello
 now see this
-# its me
-
 this is something new that I try
-lets see what will happen
